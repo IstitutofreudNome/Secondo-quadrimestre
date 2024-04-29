@@ -1,12 +1,14 @@
+# Progetto Secondo Quadrimestre
+
 ### Componenti del gruppo:
 - Justin Cadena.
 - Francesco Miraglia.
 - Zhou Zencheng.
 
 ### Contenuti:
-1. [Missing Values](#1-missing-values)
-2. [Splitting Dataset](#2-splitting-dataset)
-3. [Outliers](#3-outliers)
+1. Missing Values
+2. Splitting Dataset
+3. Outliers
 
 ---
 
